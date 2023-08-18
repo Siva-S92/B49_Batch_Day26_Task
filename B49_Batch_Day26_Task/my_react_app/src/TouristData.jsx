@@ -1,0 +1,9 @@
+const touristspot_data = [
+    {name: "The MGR Film City", description:"The MGR Film City is an integrated film studio complex in Taramani, Chennai. It was established in 1994 mainly to attract filmmakers and tourists", imageurl: 'imges/tourist_spots/mgr-film-city.png' },
+    {name: "DakshinaChitra Heritage Museum", description:"It is a living-history museum in the Indian state of Tamil Nadu, dedicated to South Indian heritage and culture. It is located 25 kilometres to the south of Chennai.", imageurl: 'imges/tourist_spots/photo_DakshinaChitra Heritage Museum.jpg' },
+    {name: "Mahabalipuram", description:"Mamallapuram, or Mahabalipuram, is a town on a strip of land between the Bay of Bengal and the Great Salt Lake, in the south Indian state of Tamil Nadu. ", imageurl: 'imges/tourist_spots/photo1_mahabalipuram.jpg' },
+    {name: "Vandalur Zoo", description:"Arignar Anna Zoological Park, also known as the Vandalur Zoo, is a zoological garden located in Vandalur, is in the southwestern part of Chennai, Tamil Nadu,", imageurl: 'imges/tourist_spots/photo2_vandaloorZoo.jpg' },
+    {name: "Guindy National Park", description:"Guindy National Park located in Chennai, India, is the 8th-smallest National Park of India and one of the very few national parks situated inside a city.", imageurl: 'imges/tourist_spots/photo3_guindy_national_park.jpg' },
+    {name: "Snow Kingdom (Chennai)", description:"A wonderful place to spend quality time with friends and family.it was fantastic and great pleasure to visit this place .There are lot of fun rides and events ...", imageurl: 'imges/tourist_spots/photo4_VGP Snow kingdom Chennai.jpg' }
+]
+export default touristspot_data

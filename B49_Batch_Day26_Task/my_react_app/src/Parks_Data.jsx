@@ -1,0 +1,9 @@
+const parks_data = [
+    {name: "Kishkinta Amusement park", description:"Kishkinta was a theme park located in Chennai, India. It was founded by Navodaya Appachan, the owner of Navodaya Studio. ", imageurl: 'imges/chennai_themeparks/Kishkinta Theme Park.jpg' },
+    {name: "MGM Dizzee World", description:"MGM Dizzee World is one of the largest and oldest amusement parks in India. It boasts of having had given its visitors some unique experiences,", imageurl: 'imges/chennai_themeparks/photo1_dizzee-land_chennai.jpg' },
+    {name: "Queensland Amusement Park", description:"Queensland located  on Chennai Bengaluru Trunk Road. Promoted by Rajam Hotels Pvt. Ltd., the fun filled entertainment park spans over an area of 70 acres of land.", imageurl: 'imges/chennai_themeparks/Queensland_Chennai.png' },
+    {name: "Snow Kingdom (Chennai)", description:"India's largest and Tamil Nadu's first and only full-fledged snow theme park, here's your ticket to fun by the bucket-load. Slide, sled, have snowball fights, ...", imageurl: 'imges/chennai_themeparks/VGP Snow Kingdom_ Chennai.jpg' },
+    {name: "VGP Universal Kingdom", description:"VGP Universal Kingdom is a highly engaging amusement park to have a fun-packed remarkable vacation. It is an ideal way to unravel the magical moments enjoyed at ...", imageurl: 'imges/chennai_themeparks/VGP Universal Kingdom.jpg' },
+    {name: "VGP Marine Kingdom", description:"VGP Marine Kingdom with such a big aquarium with 5 aquatic zones, an underwater tunnel, touch-pool exhibit & live feeding shows.", imageurl: 'imges/chennai_themeparks/VGP-marine-kingdom.jpg' }
+]
+export default parks_data

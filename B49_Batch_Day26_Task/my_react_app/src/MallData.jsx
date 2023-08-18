@@ -1,0 +1,12 @@
+const malls_data = [
+    {name: "Express Avenue Mall", description:"Established in the year 2006, Express Avenue Mall in Royapettah, Chennai is a top player in the category Malls in the Chennai.", imageurl: 'imges/chennai_shopping_malls/photo1_Express_Avenue_mall.jpg' },
+    {name: "Phoenix Marketcity", description:"This is a shopping mall full of shops for the whole family. You name it & you have it. Food courts of all kinds of cuisines is available.", imageurl: 'imges/chennai_shopping_malls/photo2_PhoenixMarketCity.jpg' },
+    {name: "Forum Vijaya Mall", description:"Forum Vijaya Mall in Vadapalani is where you need to head to for shopping, amazing things to do, events, and delish food.", imageurl: 'imges/chennai_shopping_malls/photo3_The Forum Vijaya Mall.jpg' },
+    {name: "The Marina Mall", description:"Available of all kind of vibrant complex of shops & services, featuring a food court, hypermarket & multiplex cinema.", imageurl: 'imges/chennai_shopping_malls/photo4_The Marina Mall.jpg' },
+    {name: "VR Mall", description:"VR Chennai is a shopping mall located on Jawaharlal Nehru Road in Anna Nagar West, Chennai, Tamil Nadu, India.", imageurl: 'imges/chennai_shopping_malls/photo5_VR_mall_chennai.jpg' },
+    {name: "Spencer Plaza", description:"Spencer Plaza is a shopping mall located on Anna Salai in Chennai, Tamil Nadu, India, and is one of the modern landmarks of the city.", imageurl: 'imges/chennai_shopping_malls/photo6_Spencer_Plaza.jpg' },
+    {name: "Ampa Skywalk", description:"Ampa Skywalk is a shopping mall, It has outlets for major clothing and apparel brands, a seven-screen multiplex, a games zone and a food court.", imageurl: 'imges/chennai_shopping_malls/photo7_Ampa_skywalk.jpg' },
+    {name: "The Grand Mall", description:"The Grand Mall Velachery is a shopping mall located in Chennai that offers a moderate shopping experience. The mall has a decent mix of stores,", imageurl: 'imges/chennai_shopping_malls/photo8_GrandMall_Velachery.jpg' },
+    {name: "Phoenix Marketcity", description:"Phoenix Marketcity in Velachery is where you need to head to for shopping, amazing things to do, fun events, and the best food.", imageurl: 'imges/chennai_shopping_malls/photo9_Phoenix-MArket-City.jpg' },
+]
+export default malls_data
